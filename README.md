@@ -1,6 +1,7 @@
 ## Pygame Evaluation
 
 ### A simple space invaders type shooter to test out pygame.
+<br>
 
 **Features**
 
@@ -9,6 +10,7 @@
 * Display current level
 * Current Score and High Score.
     * This is session based, not persistent.
+<br>
 
 **Instructions**
 
