@@ -1,6 +1,6 @@
-##Pygame Evaluation
+## Pygame Evaluation
 
-###A simple space invaders type shooter to test out pygame.
+### A simple space invaders type shooter to test out pygame.
 
 **Features**
 
