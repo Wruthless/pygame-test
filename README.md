@@ -2,6 +2,10 @@
 
 ### A simple space invaders type shooter to test out pygame.
 
+pygame is a hard dependency for this application. Please see the pygame wiki for installation info:
+
+https://www.pygame.org/wiki/GettingStarted
+
 **Features**
 
 * Tracks remaining ships and displays them.
